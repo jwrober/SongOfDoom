@@ -12,8 +12,19 @@ http://forum.freeciv.org/f/viewtopic.php?f=11&t=58672
 jwrober picked up the soundtrack, added it to github and is maintaining it as
 of December 2019.
 
+INSTALLATION:
+-------------
+
+To install the music set, open the modpack installer and enter this URL into 
+box at the bottom of the window:
+
+https://raw.githubusercontent.com/jwrober/SongOfDoom/master/SongOfDoom.modpack
+
+and then click install modpack.
+
 LICENSE:
 --------
+
 See the file named COPYING.SongOfDoom for information on the license and how to 
 contribute.
 
@@ -92,6 +103,3 @@ just feels right.
 In the bronze age before the discovery of University, the game does not play a 
 lot of music. After around turn ??? the game will play more music. The author 
 of the musicset does not really know why the game is coded this way.
-
-
-
