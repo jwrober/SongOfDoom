@@ -1,0 +1,97 @@
+=====================================
+SongOfDoom Music Set for Freeciv 2.6+
+=====================================
+
+BACKGROUND:
+-----------
+
+SongOfDoom is a music soundtrack for Freeciv vesions 2.6+. It was orginally
+created by mir3x and announced on the Freeciv forums in December 2016 here:
+http://forum.freeciv.org/f/viewtopic.php?f=11&t=58672
+
+jwrober picked up the soundtrack, added it to github and is maintaining it as
+of December 2019.
+
+LICENSE:
+--------
+See the file named COPYING.SongOfDoom for information on the license and how to 
+contribute.
+
+INFO:
+-----
+
+The music is all open source licensed and converted to high quality Ogg Vorbis 
+format. Here are the current artists:
+
+- Aaron Spencer [AS]
+- Bryan Boyko [BB]
+- Chech National Symphony Orchestra [CNSO]
+- Damiano Baldoni [DB1]
+- Dimension Bucket [DB2]
+- Doug Kaufman [DK]
+- Guifrog
+- HalcyonicFalconX [HFX]
+- Johannes Shroll [JS]
+- John Philip Sousa [JPS]
+- Kai Engel [KE]
+- krackatoa
+- Michael Kiefernagel [MK]
+- Martin Severn [MS]
+- Mattias Westlund [MW]
+- Omri Lahav [OL]
+- Per Kiilstofte [PK]
+- Ross Bugden [RB] - https://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ
+- Tagirijus
+- Tyler Johnson [TJ]
+- stratkat [SK]
+
+The soundtrack is broken up into time periods following the tech tree and is 
+split by peace time and combat. Peace is generally defined when you are 
+"farming" and growing your civilization with no fighting going on at all. Any 
+kind of fighting, inlcuding defense of your cities will trigger combat and the 
+music will change.
+
+TODO: Figure out how many turns of no combat before music goes back to peace
+
+At the beginning of the game, you select the style of music you want to hear by 
+picking the city style of your civilization. The current choices are:
+
+- European
+- Classical
+- Tropical
+- Asian
+- Babylonian
+- Celtic
+
+The city style is automatically selected for you when you pick your nation, but 
+you can change it if you like. The European and Classical soundtracks are 
+similar to each other. The rest are unique.
+
+The discovery of University changes the music for all city styles for the 
+Renaissance Age. All further disoveries noted below will change the music for 
+all city styles/nations.
+
+The discovery of Railroad brings in the Industrial Age.  The soundtrack 
+moves to more combat music at this point since a lot of fighting occurs around 
+this time in most games.
+
+The discovery of Automobile brings in the Electric Age soundtrack.
+
+The discovery of Rocketry brings in the Modern Age soundtrack.
+
+The discovery of Superconductors brings in the Post-Modern Age soundtrack. This 
+is the final soundtrack of the game.
+
+IMPACT ON GAMEPLAY:
+-------------------
+
+The whole purpose of this music soundtrack is to give Freeciv a more friendly 
+and pleasing sound. All of the music is high quality, fits the time period and 
+just feels right.
+
+In the bronze age before the discovery of University, the game does not play a 
+lot of music. After around turn ??? the game will play more music. The author 
+of the musicset does not really know why the game is coded this way.
+
+
+
