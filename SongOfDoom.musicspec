@@ -158,8 +158,8 @@ music_electricage_peace_0 = "SongOfDoom/RB-DarkHorizon.ogg"
 music_electricage_peace_1 = "SongOfDoom/RB-Solstice.ogg"
 music_electricage_peace_2 = "SongOfDoom/SPS-SoundOff.ogg"
 music_electricage_peace_3 = "SongOfDoom/silence60.ogg"
-music_electricage_combat_1 = "SongOfDoom/HFX-AcrutaLaoDnor.ogg"
-music_electricage_combat_2 = "SongOfDoom/silence120.ogg"
+music_electricage_combat_0 = "SongOfDoom/HFX-AcrutaLaoDnor.ogg"
+music_electricage_combat_1 = "SongOfDoom/silence120.ogg"
 
 ;Discovery of Rocketry brings in the Modern Age
 music_modern_peace_0 = "SongOfDoom/RB-WithoutLimits.ogg"
