@@ -60,9 +60,7 @@ The soundtrack is broken up into time periods following the tech tree and is
 split by peace time and combat. Peace is generally defined when you are 
 "farming" and growing your civilization with no fighting going on at all. Any 
 kind of fighting, inlcuding defense of your cities will trigger combat and the 
-music will change.
-
-TODO: Figure out how many turns of no combat before music goes back to peace
+music will change. After 16 turns of no combat the music will return to peace.
 
 At the beginning of the game, you select the style of music you want to hear by 
 picking the city style of your civilization. The current choices are:
@@ -99,7 +97,3 @@ IMPACT ON GAMEPLAY:
 The whole purpose of this music soundtrack is to give Freeciv a more friendly 
 and pleasing sound. All of the music is high quality, fits the time period and 
 just feels right.
-
-In the bronze age before the discovery of University, the game does not play a 
-lot of music. After around turn ??? the game will play more music. The author 
-of the musicset does not really know why the game is coded this way.
