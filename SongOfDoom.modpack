@@ -3,7 +3,7 @@ options = "+Freeciv-2.6-modpack"
 baseURL = "https://raw.githubusercontent.com/jwrober/SongOfDoom/master"
 name = "SongOfDoom"
 type = "Musicset"
-version = "1.2"
+version = "1.3"
 
 [files]
 list = 
@@ -11,6 +11,7 @@ list =
   "COPYING.SongOfDoom"
   "README.SongOfDoom"
   "SongOfDoom.musicspec"
+  "SongOfDoom/AndrewBeck-Strings.ogg"
   "SongOfDoom/AS-SeekingLoot.ogg"
   "SongOfDoom/BB-Dragonfly.ogg"
   "SongOfDoom/BB-Punchline.ogg"
@@ -32,8 +33,6 @@ list =
   "SongOfDoom/HFX-TravelsToTheEast.ogg"
   "SongOfDoom/JS-HexxitDRAVESymphonie.ogg"
   "SongOfDoom/KE-Blizzard.ogg"
-  "SongOfDoom/KML-EastOfTunesia.ogg"
-  "SongOfDoom/KML-ViolinAndPiano.ogg"
   "SongOfDoom/krackatoa-Battalion.ogg"
   "SongOfDoom/MK-Frontiers.ogg"
   "SongOfDoom/MS-FutureWwarzone.ogg"
