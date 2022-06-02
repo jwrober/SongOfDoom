@@ -3,7 +3,7 @@ options = "+Freeciv-3.0-mpdl"
 baseURL = "."
 name = "SongOfDoom"
 type = "Musicset"
-version = "1.3"
+version = "1.4"
 
 [files]
 list = 
