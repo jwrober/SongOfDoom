@@ -3,7 +3,7 @@ options = "+Freeciv-2.6-modpack"
 baseURL = "https://raw.githubusercontent.com/jwrober/SongOfDoom/master"
 name = "SongOfDoom"
 type = "Musicset"
-version = "1.3"
+version = "1.4"
 
 [files]
 list = 
