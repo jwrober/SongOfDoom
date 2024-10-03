@@ -1,0 +1,195 @@
+[musicspec]
+; Format and options of this spec file:
+options = "+Freeciv-3.2-musicspec"
+
+name = "SongOfDoom"
+version = "1.4"
+
+; summary = ""
+; description = "" (or from a file using '*' -> *SongOfDoom/README.txt* )
+
+;License:
+;Creative Commons Attribution 4.0 International License
+;https://creativecommons.org/licenses/by/4.0/
+
+[info]
+artists = "\ 
+Aaron Spencer [AS]
+Bryan Boyko [BB]
+Chech National Symphony Orchestra [CNSO]
+Damiano Baldoni [DB1]
+Dimension Bucket [DB2]
+Doug Kaufman [DK]
+Guifrog
+HalcyonicFalconX [HFX]
+Johannes Shroll [JS]
+John Philip Sousa [JPS]
+Kai Engel [KE]
+krackatoa
+Michael Kiefernagel [MK]
+Martin Severn [MS]
+Mattias Westlund [MW]
+Omri Lahav [OL]
+Per Kiilstofte [PK]
+Ross Bugden [RB] - https://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ
+Tagirijus
+Tyler Johnson [TJ]
+stratkat [SK]
+"
+
+[files]
+music_menu = "SongOfDoom/RB-IntroMusic.ogg"
+music_victory = "SongOfDoom/DB2-Jabberwocky.ogg"
+music_defeat = "SongOfDoom/SK-SadSong.ogg"
+
+;Ancient Times - Bronze Age / Selection of European City Style
+music_european_peace_0 = "SongOfDoom/RB-ASongofIceandFire.ogg"
+music_european_peace_1 = "SongOfDoom/TJ-IntoTheShadows.ogg"
+music_european_peace_2 = "SongOfDoom/RB-Chosen.ogg"
+music_european_peace_3 = "SongOfDoom/DB1-IveNotFear.ogg"
+music_european_peace_4 = "SongOfDoom/RB-Ascension.ogg"
+music_european_peace_5 = "SongOfDoom/RB-Beyond.ogg"
+music_european_peace_6 = "SongOfDoom/TheGingerGirl.ogg"
+music_european_peace_7 = "SongOfDoom/silence60.ogg"
+music_european_combat_0 = "SongOfDoom/HFX-HeroesMarch.ogg"
+music_european_combat_1 = "SongOfDoom/RB-DragonSlayer.ogg"
+music_european_combat_2 = "SongOfDoom/RB-Olympus.ogg"
+music_european_combat_3 = "SongOfDoom/RB-HouseStark.ogg"
+music_european_combat_4 = "SongOfDoom/RB-HouseTargaryen.ogg"
+music_european_combat_5 = "SongOfDoom/RB-HouseLannisters.ogg"
+music_european_combat_6 = "SongOfDoom/DK-BattleEpic.ogg"
+music_european_combat_7 = "SongOfDoom/KE-Blizzard.ogg"
+music_european_combat_8 = "SongOfDoom/silence120.ogg"
+;
+;Ancient Times - Bronze Age / Selection of Classical City Style
+music_classical_peace_0 = "SongOfDoom/RB-ASongofIceandFire.ogg"
+music_classical_peace_1 = "SongOfDoom/TJ-IntoTheShadows.ogg"
+music_classical_peace_2 = "SongOfDoom/RB-Chosen.ogg"
+music_classical_peace_3 = "SongOfDoom/DB1-IveNotFear.ogg"
+music_classical_peace_4 = "SongOfDoom/RB-LegendofStyk.ogg"
+music_classical_peace_5 = "SongOfDoom/DB1-TheMessageToTheFish.ogg"
+music_classical_peace_6 = "SongOfDoom/RB-NorthRemebers.ogg"
+music_classical_peace_7 = "SongOfDoom/silence60.ogg"
+music_classical_combat_0 = "SongOfDoom/HFX-HeroesMarch.ogg"
+music_classical_combat_1 = "SongOfDoom/RB-DragonSlayer.ogg"
+music_classical_combat_2 = "SongOfDoom/RB-Olympus.ogg"
+music_classical_combat_3 = "SongOfDoom/RB-HouseStark.ogg"
+music_classical_combat_4 = "SongOfDoom/RB-HouseTargaryen.ogg"
+music_classical_combat_5 = "SongOfDoom/RB-HouseLannisters.ogg"
+music_classical_combat_6 = "SongOfDoom/DK-BattleEpic.ogg"
+music_classical_combat_7 = "SongOfDoom/KE-Blizzard.ogg"
+music_classical_combat_8 = "SongOfDoom/silence120.ogg"
+;
+;Ancient Times - Bronze Age / Selection of Tropical City Style
+music_tropical_peace_0 = "SongOfDoom/BB-Punchline.ogg"
+music_tropical_peace_1 = "SongOfDoom/RB-Chosen.ogg"
+music_tropical_peace_2 = "SongOfDoom/AS-SeekingLoot.ogg"
+music_tropical_peace_3 = "SongOfDoom/HFX-JourneyToTheEast.ogg"
+music_tropical_peace_4 = "SongOfDoom/silence60.ogg"
+music_tropical_combat_0 = "SongOfDoom/RB-Run.ogg"
+music_tropical_combat_1 = "SongOfDoom/HFX-TravelsOfVagabonds.ogg"
+music_tropical_combat_2 = "SongOfDoom/OL-0AD-FirstSighting.ogg"
+music_tropical_combat_3 = "SongOfDoom/silence120.ogg"
+;
+;Ancient Times - Bronze Age / Selection of Asian City Style
+music_asian_peace_0 = "SongOfDoom/DB2-Jabberwocky.ogg"
+music_asian_peace_1 = "SongOfDoom/DB1-TheMessageToTheFish.ogg"
+music_asian_peace_2 = "SongOfDoom/PK-Beyond_the_Stars.ogg"
+music_asian_peace_3 = "SongOfDoom/HFX-JourneyToTheEast.ogg"
+music_asian_peace_4 = "SongOfDoom/silence60.ogg"
+music_asian_combat_0 = "SongOfDoom/BB-Dragonfly.ogg"
+music_asian_combat_1 = "SongOfDoom/RB-HouseStark.ogg"
+music_asian_combat_2 = "SongOfDoom/OL-0AD-FirstSighting.ogg"
+music_asian_combat_3 = "SongOfDoom/silence120.ogg"
+;
+;Ancient Times - Bronze Age / Selection of Babylonian City Style
+music_babylonian_peace_0 = "SongOfDoom/HFX-TravelsToTheEast.ogg"
+music_babylonian_peace_1 = "SongOfDoom/RB-NorthRemebers.ogg"
+music_babylonian_peace_2 = "SongOfDoom/RB-Weightless.ogg"
+music_babylonian_peace_3 = "SongOfDoom/RB-TheWildWest.ogg"
+music_babylonian_peace_4 = "SongOfDoom/Tagirijus-ThroughTheDunes.ogg"
+music_babylonian_peace_5 = "SongOfDoom/silence60.ogg"
+music_babylonian_combat_0 = "SongOfDoom/RB-HouseStark.ogg"
+music_babylonian_combat_1 = "SongOfDoom/RB-HouseTargaryen.ogg"
+music_babylonian_combat_2 = "SongOfDoom/RB-HouseLannisters.ogg"
+music_babylonian_combat_3 = "SongOfDoom/silence120.ogg"
+;
+;Ancient Times - Bronze Age / Selection of Celtic City Style
+music_celtic_peace_0 = "SongOfDoom/JS-HexxitDRAVESymphonie.ogg"
+music_celtic_peace_1 = "SongOfDoom/RB-TheWildWest.ogg"
+music_celtic_peace_2 = "SongOfDoom/PK-Summer_Rain.ogg"
+music_celtic_peace_3 = "SongOfDoom/DK-ElvishTheme.ogg"
+music_celtic_peace_4 = "SongOfDoom/Guifrog-BeyondTheWarriors.ogg"
+music_celtic_peace_5 = "SongOfDoom/DB1-Cassiopea.ogg"
+music_celtic_peace_6 = "SongOfDoom/DB1-IveNotFear.ogg"
+music_celtic_peace_7 = "SongOfDoom/MW-Northern-Mountains.ogg"
+music_celtic_peace_8 = "SongOfDoom/silence60.ogg"
+music_celtic_combat_0 = "SongOfDoom/RB-HouseTargaryen.ogg"
+music_celtic_combat_1 = "SongOfDoom/BB-Dragonfly.ogg"
+music_celtic_combat_2 = "SongOfDoom/DK-BattleEpic.ogg"
+music_celtic_combat_3 = "SongOfDoom/silence120.ogg"
+;
+;Discovery of University brings in Renaissance Age
+music_renaissance_peace_0 = "SongOfDoom/regina-caeli-solemn.ogg"
+music_renaissance_peace_1 = "SongOfDoom/CNSO-Morning.ogg"
+music_renaissance_peace_2 = "SongOfDoom/RB-GhiblisWaltz.ogg"
+music_renaissance_peace_3 = "SongOfDoom/RB-Piano.ogg"
+music_renaissance_peace_4 = "SongOfDoom/RB-Ascension.ogg" 
+music_renaissance_peace_5 = "SongOfDoom/HFX-Searching.ogg"
+music_renaissance_peace_6 = "SongOfDoom/PK-Setting_Sail.ogg"
+music_renaissance_peace_7 = "SongOfDoom/AndrewBeck-Strings.ogg"
+music_renaissance_peace_8 = "SongOfDoom/silence60.ogg"
+music_renaissance_combat_0 = "SongOfDoom/CNSO-InTheHallOfTheMountainKing.ogg"
+music_renaissance_combat_1 = "SongOfDoom/PK-Battle_of_Kings.ogg"
+music_renaissance_combat_2 = "SongOfDoom/RB-HouseStark.ogg"
+music_renaissance_combat_3 = "SongOfDoom/RB-HouseTargaryen.ogg"
+music_renaissance_combat_4 = "SongOfDoom/RB-HouseLannisters.ogg"
+music_renaissance_combat_5 = "SongOfDoom/MW-LegendsOfTheNorth.ogg"
+music_renaissance_combat_6 = "SongOfDoom/silence120.ogg"
+;
+;Discovery of Railroad brings in the Industrial Age - Much more combat here
+music_industrial_peace_0 = "SongOfDoom/RB-NorthernExpress.ogg"
+music_industrial_peace_1 = "SongOfDoom/RB-TheWildWest.ogg"
+music_industrial_peace_2 = "SongOfDoom/RB-Beyond.ogg"
+music_industrial_peace_3 = "SongOfDoom/RB-LegendofStyk.ogg"
+music_industrial_peace_4 = "SongOfDoom/AndrewBeck-Strings.ogg"
+music_industrial_peace_5 = "SongOfDoom/silence60.ogg"
+music_industrial_combat_0 = "SongOfDoom/PK-Battle_of_Kings.ogg"
+music_industrial_combat_1 = "SongOfDoom/RB-PirateCrew.ogg"
+music_industrial_combat_2 = "SongOfDoom/RB-HouseStark.ogg"
+music_industrial_combat_3 = "SongOfDoom/RB-HouseTargaryen.ogg"
+music_industrial_combat_4 = "SongOfDoom/RB-HouseLannisters.ogg"
+music_industrial_combat_5 = "SongOfDoom/krackatoa-Battalion.ogg"
+music_industrial_combat_6 = "SongOfDoom/silence120.ogg"
+;
+;Discovery of Automobile brings in the Electric Age - At ths time, pretty much all combat
+music_electricage_peace_0 = "SongOfDoom/RB-DarkHorizon.ogg"
+music_electricage_peace_1 = "SongOfDoom/RB-Solstice.ogg"
+music_electricage_peace_2 = "SongOfDoom/SPS-SoundOff.ogg"
+music_electricage_peace_3 = "SongOfDoom/silence60.ogg"
+music_electricage_combat_0 = "SongOfDoom/HFX-AcrutaLaoDnor.ogg"
+music_electricage_combat_1 = "SongOfDoom/HFX-ALightInTheDarknessOfDestruction.ogg"
+music_electricage_combat_2 = "SongOfDoom/silence120.ogg"
+;
+;Discovery of Rocketry brings in the Modern Age
+music_modern_peace_0 = "SongOfDoom/RB-WithoutLimits.ogg"
+music_modern_peace_1 = "SongOfDoom/RB-LastDawn.ogg"
+music_modern_peace_2 = "SongOfDoom/PK-Winter_Dawn.ogg"
+music_modern_peace_3 = "SongOfDoom/silence60.ogg"
+music_modern_combat_0 = "SongOfDoom/RB-WelcometoChaos.ogg"
+music_modern_combat_1 = "SongOfDoom/RB-Unstoppable.ogg"
+music_modern_combat_2 = "SongOfDoom/PK-Rallying_The_Defense.ogg"
+music_modern_combat_3 = "SongOfDoom/MK-Frontiers.ogg"
+music_modern_combat_4 = "SongOfDoom/silence120.ogg"
+;
+;Discovery of Superconductors brings in the Post-Modern Age
+music_postmodern_peace_0 = "SongOfDoom/RB-TheWasteland.ogg"
+music_postmodern_peace_1 = "SongOfDoom/RB-LegendofStyk.ogg"
+music_postmodern_peace_2 = "SongOfDoom/RB-BlackHeat.ogg"
+music_postmodern_peace_3 = "SongOfDoom/PK-The_End_of_Mankind.ogg"
+music_postmodern_peace_4 = "SongOfDoom/silence60.ogg"
+music_postmodern_combat_0 = "SongOfDoom/RB-Drive.ogg"
+music_postmodern_combat_1 = "SongOfDoom/RB-ShootonSight.ogg"
+music_postmodern_combat_2 = "SongOfDoom/MK-Frontiers.ogg"
+music_postmodern_combat_3 = "SongOfDoom/MS-FutureWwarzone.ogg"
+music_postmodern_combat_4 = "SongOfDoom/silence120.ogg"
